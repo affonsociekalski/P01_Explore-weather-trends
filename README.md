@@ -18,8 +18,7 @@ ON c.year = g.year
 WHERE g.year >= 1851 AND g.year <= 2013 AND c.city = ‘Rio De Janeiro’
 ```
 After that, I exported the data as CSV and opened it in Excel to wrangle and produce 
-a data visualization for analysis. The final product is the report in this repository 
-where you will find a more complete description of my project.
+a data visualization for analysis. The final product is the [report](https://github.com/affonsociekalski/P01_Explore-weather-trends/blob/main/Report_project-1.pdf) in this repository where you will find a more complete description of my project.
 
 ## Technologies Used
 * Excel
